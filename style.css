@@ -1,0 +1,14 @@
+h3{
+    font-size: 25px !important;
+    background-image: linear-gradient(to right top, #216863, #9cac33, #9eb3e4, #de21ff, #75759c);
+    width: 150px;
+    border-radius: 50px;
+}
+.btn-success:hover{
+    background-color: rgb(64, 131, 161);
+}
+canvas{
+   border: black ridge;
+   border-width: 30px;
+}
+
